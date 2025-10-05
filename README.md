@@ -12,9 +12,9 @@ Percebemos que nosso objetivo é permitir  que  os  clientes  de  delivery  de  
 
 Agora que entendemos qual o nosso contexto, vamos criar nossa API em cima da funcionalidade start, que á a funcionalidade que dá origem a existência da nossa API.
 
-Funcionalidade start:
+**Funcionalidade start:**
 
-Cliente  de  delivery  de  alimentação  "deseja"  acompanhar  o  status  do seu pedido em forma de posts de midias sociais 
+🎯 Cliente  de  delivery  de  alimentação  "deseja"  acompanhar  o  status  do seu pedido em forma de posts de midias sociais 
 
 <br>
 
