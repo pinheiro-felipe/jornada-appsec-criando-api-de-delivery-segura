@@ -2,8 +2,11 @@
 
 Eu  sempre  gostei  de  compartilhar  conhecimento  e  trocar  ideia  sobre  desenvolvimento  de  software  seguro,  mas  isso  sempre  ocorreu  no  um  a  um. Há  anos  desejo  trocar  ideia  com  mais  pessoas  na  internet,  mas  sempre  deixei de lado ao priorizar outras tarefas do dia a dia.
 
-Nessa  jornada,  eu  vou  passar  a  minha  visão  de  como  criar  uma  API  segura, por  isso  posso  incluir  coisas  que  você  não  pensou  ou  deixar  de  fora  coisas  que 
-você incluiria. E tudo bem isso acontecer.
+Nessa  jornada,  eu  vou  passar  a  minha  visão  de  como  criar  uma  API  segura, por  isso  posso  incluir  coisas  que  você  não  pensou  ou  deixar  de  fora  coisas  que você incluiria. E tudo bem isso acontecer.
+
+Nosso  objetivo  neste  momento  não  é  a  ideia  em  si,  mas  o  processo  de  como criar  uma  API  segura.  
+
+No  nosso  caso  identificamos uma  oportunidade  fictícia para criar a API:  Clientes  de  delivery de  alimentação  desejam  acompanhar  o  status  do  seu  pedido,  não  só  com mensagens  de  texto,  mas  com  postagens  que  se  assemelham  a  posts  de mídias  sociais  e  etapa  por  etapa,  desde  a  preparação  do  pedido  até  o envio do mesmo. 
 
 📂 **Estrutura do repositório:**
 
