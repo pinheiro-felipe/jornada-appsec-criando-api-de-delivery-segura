@@ -14,7 +14,7 @@ Agora que entendemos nosso contexto, vamos criar nossa API em cima da funcionali
 
 Funcionalidade start:
 
-    Cliente  de  delivery  de  alimentação  "deseja"  acompanhar  o  status  do seu pedido em forma de posts de midias sociais na própria API 
+Cliente  de  delivery  de  alimentação  "deseja"  acompanhar  o  status  do seu pedido em forma de posts de midias sociais na própria API 
 
 📂 **Estrutura do repositório:**
 
