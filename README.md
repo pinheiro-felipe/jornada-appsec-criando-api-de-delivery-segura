@@ -8,13 +8,15 @@ Nosso  objetivo  neste  momento  não  é  a  ideia  em  si,  mas  o  processo  
 
 No  nosso  caso  identificamos uma  oportunidade  fictícia para criar a API, a oportunidade é:  Clientes  de  delivery de  alimentação  desejam  acompanhar  o  status  do  seu  pedido,  não  só  com mensagens  de  texto,  mas  com  postagens  que  se  assemelham  a  posts  de mídias  sociais  e  etapa  por  etapa,  desde  a  preparação  do  pedido  até  o envio do mesmo. 
 
-Então nosso objetivo é permitir  que  os  clientes  de  delivery  de  alimentação,  possam acompanhar  o  status  do  seu  pedido,  de  forma  semelhante  a  posts  de  midias sociais, etapa por etapa até o seu envio. 
+Percebemos que nosso objetivo é permitir  que  os  clientes  de  delivery  de  alimentação,  possam acompanhar  o  status  do  seu  pedido,  de  forma  semelhante  a  posts  de  midias sociais, etapa por etapa até o seu envio. 
 
-Agora que entendemos nosso contexto, vamos criar nossa API em cima da funcionalidade start, que á a funcionalidade que dá origem a existência da API.
+Agora que entendemos qual o nosso contexto, vamos criar nossa API em cima da funcionalidade start, que á a funcionalidade que dá origem a existência da nossa API.
 
 Funcionalidade start:
 
-Cliente  de  delivery  de  alimentação  "deseja"  acompanhar  o  status  do seu pedido em forma de posts de midias sociais na própria API 
+Cliente  de  delivery  de  alimentação  "deseja"  acompanhar  o  status  do seu pedido em forma de posts de midias sociais 
+
+
 
 📂 **Estrutura do repositório:**
 
