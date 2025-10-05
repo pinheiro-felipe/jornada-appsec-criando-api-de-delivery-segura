@@ -16,7 +16,7 @@ Funcionalidade start:
 
 Cliente  de  delivery  de  alimentação  "deseja"  acompanhar  o  status  do seu pedido em forma de posts de midias sociais 
 
-<br> <br>
+<br>
 
 📂 **Estrutura do repositório:**
 
