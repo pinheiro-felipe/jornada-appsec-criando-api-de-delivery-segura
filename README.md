@@ -9,7 +9,7 @@
   📄 [4 - Etapas que o pedido percorre em nossa plataforma de delivery](./docs/4-etapas-que-o-pedido-percorre-em-nossa-plataforma-de-delivery.pdf)  
   📄 [5 - Identificando nossos subdomínios, categorizando e definindo relacionamento entre os contextos delimitados](./docs/5-identificando-nossos-subdominios-categorizando-e-definindo-relacionamento-entre-os-contextos-delimitados.pdf)  
 
-2️⃣ [src/](./src) → Código da API
-3️⃣ [tests/](./tests) → Testes automatizados 
-4️⃣ [examples/](./examples) → Exemplos de uso
+2️⃣ [src/](./src) → Código da API  
+3️⃣ [tests/](./tests) → Testes automatizados  
+4️⃣ [examples/](./examples) → Exemplos de uso  
 5️⃣ [deploy/](./deploy) → Deploy e DevSecOps
