@@ -1,5 +1,10 @@
 # Jornada AppSec - Criando API de Delivery Segura
 
+Eu  sempre  gostei  de  compartilhar  conhecimento  e  trocar  ideia  sobre  desenvolvimento  de  software  seguro,  mas  isso  sempre  ocorreu  no  um  a  um. Há  anos  desejo  trocar  ideia  com  mais  pessoas  na  internet,  mas  sempre  deixei de lado ao priorizar outras tarefas do dia a dia.
+
+Nessa  jornada,  eu  vou  passar  a  minha  visão  de  como  criar  uma  API  segura, por  isso  posso  incluir  coisas  que  você  não  pensou  ou  deixar  de  fora  coisas  que 
+você incluiria. E tudo bem isso acontecer.
+
 📂 **Estrutura do repositório:**
 
 1️⃣ [docs/](./docs) → Guia passo a passo de como estamos construindo nossa API de delivery pensando em AppSec, desde a ideia até a implantação
