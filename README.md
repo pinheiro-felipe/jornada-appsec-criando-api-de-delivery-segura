@@ -24,7 +24,7 @@ Na implementação da API seremos mais diretos e focaremos somente na funcionali
 
 📂 **Estrutura do repositório:**
 
-1️⃣ [docs/](./docs) → Guia passo a passo de como estamos construindo nossa API de delivery pensando em AppSec, desde a ideia até a implantação  
+1️⃣ [docs/](./docs) → Guia passo a passo de como estamos construindo nossa API de postagem de status do pedido de delivery pensando em AppSec, desde a ideia até a implantação  
   📄 [1 - Colocando a ideia da API de postagem de status do pedido para delivery no papel](./docs/1-Colocando-a-ideia-da-api-de-postagem-de-status-do-pedido-para-delivery-no-papel.pdf)   
   📄 [2 - Nivelando os conceitos de API](./docs/2-Nivelando-os-conceitos-de-API.pdf)  
   📄 [3 - Nivelando os conceitos de subdomínio e contexto delimitado](./docs/3-Nivelando-os-conceitos-de-subdomínio-e-contexto-delimitado.pdf)  
