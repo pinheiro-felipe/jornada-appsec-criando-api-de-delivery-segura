@@ -1,4 +1,4 @@
-# Jornada AppSec - Criando API de Delivery Segura
+# Jornada AppSec - Criando api de notificação de status do pedido para delivery
 
 **Sobre este repositório:**
 
