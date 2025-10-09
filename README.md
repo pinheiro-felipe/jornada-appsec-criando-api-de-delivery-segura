@@ -1,4 +1,4 @@
-# Jornada AppSec - Criando api de notificação de status do pedido para delivery
+# Jornada AppSec - Criando api de postagem de status do pedido para delivery
 
 **Sobre este repositório:**
 
