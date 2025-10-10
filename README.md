@@ -31,16 +31,14 @@ Na implementação da API seremos mais diretos e focaremos somente na funcionali
   📄 [4 - Etapas que o pedido percorre em nossa plataforma de delivery](./docs/4-Etapas-que-o-pedido-percorre-em-nossa-plataforma-de-delivery.pdf) *(p. 73–75)*   
   📄 [5 - Identificando nossos subdomínios, categorizando e definindo relacionamento entre contextos delimitados](./docs/5-Identificando-nossos-subdomínios-categorizando-e-definindo-relacionamento-entre-contextos-delimitados.pdf) *(p. 76-113)*    
   📄 [6 - Esboçando o desenho da nossa API](./docs/6-Esboçando-o-desenho-da-nossa-API.pdf) *(p. 114–121)*   
-
-
+<br>
 2️⃣ [project/](./project) → Gestão do Projeto (em breve)  
   📋 [1 - Backlog de Funcionalidades](./project/backlog.md) (em breve)  
   📋 [2 - Lista de Tarefas Técnicas](./project/tarefas.md) (em breve)  
   📋 [3 - Quadro Kanban](./project/kanban.md) (em breve)  
   📋 [4 - Histórias de Usuário](./project/historias-de-usuario.md) (em breve)  
   📋 [5 - Guia de Contribuição](./project/contribuicao.md) (em breve)  
-
-
+<br>
 3️⃣ [src/](./src) → Código da API (em breve)  
 4️⃣ [tests/](./tests) → Testes automatizados (em breve)  
 5️⃣ [examples/](./examples) → Exemplos de uso (em breve)  
