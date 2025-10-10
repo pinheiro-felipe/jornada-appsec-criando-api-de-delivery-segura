@@ -25,12 +25,12 @@ Na implementação da API seremos mais diretos e focaremos somente na funcionali
 📂 **Estrutura do repositório:**
 
 1️⃣ [docs/](./docs) → Guia passo a passo de como estamos construindo nossa API de postagem de status do pedido de delivery pensando em AppSec, desde a ideia até a implantação  
-  📄 [1 - Colocando a ideia da API de postagem de status do pedido para delivery no papel](./docs/1-Colocando-a-ideia-da-api-de-postagem-de-status-do-pedido-para-delivery-no-papel.pdf) **(p. 1–54)**  
-  📄 [2 - Nivelando os conceitos de API](./docs/2-Nivelando-os-conceitos-de-API.pdf) **(p. 55–63)**  
-  📄 [3 - Nivelando os conceitos de subdomínio e contexto delimitado](./docs/3-Nivelando-os-conceitos-de-subdomínio-e-contexto-delimitado.pdf) **(p. 64–72)**  
-  📄 [4 - Etapas que o pedido percorre em nossa plataforma de delivery](./docs/4-Etapas-que-o-pedido-percorre-em-nossa-plataforma-de-delivery.pdf) **(p. 73–75)**  
-  📄 [5 - Identificando nossos subdomínios, categorizando e definindo relacionamento entre contextos delimitados](./docs/5-Identificando-nossos-subdomínios-categorizando-e-definindo-relacionamento-entre-contextos-delimitados.pdf) **(p. 76-113)**  
-  📄 [6 - Esboçando o desenho da nossa API](./docs/6-Esboçando-o-desenho-da-nossa-API.pdf) **(p. 114–121)**  
+  📄 [1 - Colocando a ideia da API de postagem de status do pedido para delivery no papel](./docs/1-Colocando-a-ideia-da-api-de-postagem-de-status-do-pedido-para-delivery-no-papel.pdf) *(p. 1–54)*  
+  📄 [2 - Nivelando os conceitos de API](./docs/2-Nivelando-os-conceitos-de-API.pdf) *(p. 55–63)*
+  📄 [3 - Nivelando os conceitos de subdomínio e contexto delimitado](./docs/3-Nivelando-os-conceitos-de-subdomínio-e-contexto-delimitado.pdf) *(p. 64–72)*
+  📄 [4 - Etapas que o pedido percorre em nossa plataforma de delivery](./docs/4-Etapas-que-o-pedido-percorre-em-nossa-plataforma-de-delivery.pdf) *(p. 73–75)* 
+  📄 [5 - Identificando nossos subdomínios, categorizando e definindo relacionamento entre contextos delimitados](./docs/5-Identificando-nossos-subdomínios-categorizando-e-definindo-relacionamento-entre-contextos-delimitados.pdf) *(p. 76-113)*  
+  📄 [6 - Esboçando o desenho da nossa API](./docs/6-Esboçando-o-desenho-da-nossa-API.pdf) *(p. 114–121)* 
 
 2️⃣ [project/](./project) → Gestão do Projeto (em breve)  
   📋 [1 - Backlog de Funcionalidades](./project/backlog.md) (em breve)  
