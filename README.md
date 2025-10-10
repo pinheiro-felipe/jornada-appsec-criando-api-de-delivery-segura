@@ -2,17 +2,17 @@
 
 **Sobre este repositório:**
 
-<p>Eu sempre gostei de compartilhar conhecimento e trocar ideia sobre desenvolvimento de software seguro, mas isso sempre ocorreu no um a um. Há anos desejo trocar ideia com mais pessoas na internet, mas sempre deixei de lado ao priorizar outras tarefas do dia a dia.</p>
+<p style="text-align: justify">Eu sempre gostei de compartilhar conhecimento e trocar ideia sobre desenvolvimento de software seguro, mas isso sempre ocorreu no um a um. Há anos desejo trocar ideia com mais pessoas na internet, mas sempre deixei de lado ao priorizar outras tarefas do dia a dia.</p>
 
-<p>Nesta jornada, eu vou passar a minha visão de como criar uma API segura, por isso posso incluir coisas que você não pensou ou deixar de fora coisas que você incluiria.E tudo bem isso acontecer.</p>
+<p style="text-align: justify">Nesta jornada, eu vou passar a minha visão de como criar uma API segura, por isso posso incluir coisas que você não pensou ou deixar de fora coisas que você incluiria.E tudo bem isso acontecer.</p>
 
-<p>Nosso objetivo neste momento não é a ideia em si, mas o processo de como criar uma API segura.</p>  
+<p style="text-align: justify">Nosso objetivo neste momento não é a ideia em si, mas o processo de como criar uma API segura.</p>  
 
-<p>No nosso caso criamos uma oportunidade fictícia para em cima dela criar nossa API, e essa oportunidade é: Clientes de delivery de alimentação desejam acompanhar o status do seu pedido, não só com mensagens de texto, mas com postagens que se assemelham a posts de mídias sociais e etapa por etapa, desde a preparação do pedido até o envio do mesmo.</p> 
+<p style="text-align: justify">No nosso caso criamos uma oportunidade fictícia para em cima dela criar nossa API, e essa oportunidade é: Clientes de delivery de alimentação desejam acompanhar o status do seu pedido, não só com mensagens de texto, mas com postagens que se assemelham a posts de mídias sociais e etapa por etapa, desde a preparação do pedido até o envio do mesmo.</p> 
 
 <p style="text-align: justify">Agora que entendemos qual é o nosso objetivo, vamos criar nossa API. Vamos partir dessa funcionalidade que eu chamo de funcionalidade start. Ela é o ponto de partida, a origem da existência da nossa API. Com ela em mente vamos destrinchar tudo a sua volta, tudo que precisa existir para que a funcionalidade start possa cumprir seu objetivo de permitir que clientes de delivery de alimentação possam acompanhar o status do seu pedido em forma de posts de midias sociais.</p>
 
-<p>Na implementação da API seremos mais diretos e focaremos somente na funcionalidade start, que é o nosso diferencial competitivo. Transformaremos essa funcionalidade start num novo produto que servirá tanto a nossa plataforma de delivery quanto a outras plataformas de delivery que contratatarem nosso serviço de postagens de status do pedido semelhante a posts de mídias sociais.</p>
+<p style="text-align: justify">Na implementação da API seremos mais diretos e focaremos somente na funcionalidade start, que é o nosso diferencial competitivo. Transformaremos essa funcionalidade start num novo produto que servirá tanto a nossa plataforma de delivery quanto a outras plataformas de delivery que contratatarem nosso serviço de postagens de status do pedido semelhante a posts de mídias sociais.</p>
 
 <br>
 
